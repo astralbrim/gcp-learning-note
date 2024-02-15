@@ -1,0 +1,2 @@
+# GCP laerning note 📚
+
